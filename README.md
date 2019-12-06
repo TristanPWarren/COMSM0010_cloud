@@ -43,8 +43,7 @@ This is the Clound Nonce Discovery System (CND) running on AWS
 
 + Replace ami string on line 116 in ``cnd_master.py`` with the AMI ID of the new image
 
-
-
++ Run CND system using ``python3 cnd_master`` using the following command line arguments to specify behaviour 
 
 ####Command Line Arguments:
 
