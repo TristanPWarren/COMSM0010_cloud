@@ -1,4 +1,4 @@
-#README COMSM0010
+#README comsm0010_CW
 
 ## Tristan Warren - tw15212
 
